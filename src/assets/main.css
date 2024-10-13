@@ -1,0 +1,6 @@
+@import './base.css';
+@import 'lenis/dist/lenis.css';
+
+#app > div {
+  padding: 8vw;
+}
